@@ -1,4 +1,4 @@
-# Deep Learning Training Loops
+# Deep Learning foundations
 
 This repository contains a simple, educational notebook focused on building a clear understanding of a standard PyTorch training loop.
 
